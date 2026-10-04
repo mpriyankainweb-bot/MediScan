@@ -1,0 +1,11 @@
+# Theme + tidy toolbar for MediScan. Safe to commit (no secrets here).
+[theme]
+base = "light"
+primaryColor = "#00957F"
+backgroundColor = "#EAF0F3"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0F2A3D"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
